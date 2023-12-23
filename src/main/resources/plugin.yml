@@ -1,0 +1,6 @@
+name: PlotSkuared
+version: '${version}'
+main: lol.aabss.plotskuared.PlotSkuared
+api-version: '1.20'
+depend:
+  - PlotSquared
